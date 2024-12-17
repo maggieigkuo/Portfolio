@@ -5,3 +5,6 @@ Hi, I’m Maggie Kuo! A current senior majoring in Integrative Neuroscience with
 As I continue to finish my studies, I have gained valuable skills in Python conducting statistical analysis, data visualization, and analysis of pattern and trends. I plan on adding more skills to my toolkit by learning Tableu, SQL, HTML, and R by the end of the spring. 
 
 The purpose of this repository is to showcase my skills and the projects I have completed so far.
+
+
+# Table of Contents
