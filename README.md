@@ -7,4 +7,4 @@ As I continue to finish my studies, I have gained valuable skills in Python cond
 The purpose of this repository is to showcase my skills and the projects I have completed so far.
 
 
-# Table of Contents
+## Table of Contents
