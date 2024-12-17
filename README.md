@@ -23,11 +23,10 @@ Code: https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb
 
 Goal: Assess ways to decrease or, ideally, end racial disparities that occur during stop-and-frisk searches in New York City.
 
-Description: This project's objective was analyzing the 2023 NYCLU stop-and-frisk dataset. We had to examine over 50 columns in the dataset, narrow it down to 18, and then create four research questions to find any alarming trends or patterns that occurs during a stop-and-frisk. This dataset required extensive data cleaning as there was many NANs and nulls within each column. The questions incorporated logitistic regressions, mapping, and data visualization. 
+Description: The objective of this project was to analyze the 2023 NYCLU stop-and-frisk dataset. We examined over 50 columns, narrowed them down to 18, and developed four research questions to identify any alarming trends or patterns occurring during stop-and-frisk incidents. The dataset required extensive cleaning, as there were many NaNs and null values across multiple columns. The analysis incorporated logistic regressions, mapping, and data visualization. 
 
 Skills: data cleaning, data analysis, regression analysis, data visualization
 
 Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels.api, GeoPandas
 
-Results: From the analysis, Black, male Americans in the Bronx and Brookly are more to be stopped and frisked, with many of the consensual cases leading to physical (verbal) escalations. The number of arrests increased when a supervisor checked the logs of an officer, proving statistical significance between arrests and supervisor interference.  
-
+Results: From the analysis, Black male Americans in the Bronx and Brooklyn are more likely to be stopped and frisked, with many of the consensual cases leading to physical (verbal) escalations. The number of arrests increased when a supervisor checked an officer's logs, demonstrating a statistically significant relationship between arrests and supervisory oversight.
