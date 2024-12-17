@@ -19,14 +19,15 @@ This section will be used to briefly describe the data analytics projects (in Py
 
 ### Analyzing Stop and Frisks Occurring in each NYC Borough
 
-Code: 
-Goal: To determine what factors contribute the most to a movie's success.
+Code: https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb
 
-Description: The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+Goal: Assess ways to decrease or, ideally, end racial disparities that occur during stop-and-frisk searches in New York City.
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Description: This project's objective was analyzing the 2023 NYCLU stop-and-frisk dataset. We had to examine over 50 columns in the dataset, narrow it down to 18, and then create four research questions to find any alarming trends or patterns that occurs during a stop-and-frisk. This dataset required extensive data cleaning as there was many NANs and nulls within each column. The questions incorporated logitistic regressions, mapping, and data visualization. 
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Skills: data cleaning, data analysis, regression analysis, data visualization
 
-Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels.api, GeoPandas
+
+Results: From the analysis, Black, male Americans in the Bronx and Brookly are more to be stopped and frisked, with many of the consensual cases leading to physical (verbal) escalations. The number of arrests increased when a supervisor checked the logs of an officer, proving statistical significance between arrests and supervisor interference.  
 
