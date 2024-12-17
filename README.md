@@ -8,4 +8,4 @@ The purpose of this repository is to showcase my skills and the projects I have 
 
 
 ## Table of Contents
-- [About] (https://github.com/maggieigkuo/Portfolio/blob/main/README.md#about)
+- [About](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#about)
