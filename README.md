@@ -12,7 +12,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
 - [Projects](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#projects)
   - #### Python
     - [Analyzing Stop and Frisks Occurring in each NYC Borough](https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb)
-    - 
+    - [Social Media Data Visualization Analysis](https://github.com/maggieigkuo/Portfolio/blob/main/Social_Media_Data_Visualization.ipynb)
 
 ## Portfolio Projects
 This section will be used to briefly describe the data analytics projects (in Python) done to solve stalkeholder cases.
@@ -20,6 +20,20 @@ This section will be used to briefly describe the data analytics projects (in Py
 ### Analyzing Stop and Frisks Occurring in each NYC Borough
 
 Code: https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb
+
+Goal: Assess ways to decrease or, ideally, end racial disparities that occur during stop-and-frisk searches in New York City.
+
+Description: The objective of this project was to analyze the 2023 NYCLU stop-and-frisk dataset. My group and I examined over 50 columns, narrowed them down to 18, and developed four research questions to identify any alarming trends or patterns occurring during stop-and-frisk incidents. The dataset required extensive cleaning, as there were many NaNs and null values across multiple columns. The analysis incorporated logistic regressions, mapping, and data visualization. 
+
+Skills: data cleaning, data analysis, regression analysis, data visualization
+
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels.api, GeoPandas
+
+Results: From the analysis, Black male Americans in the Bronx and Brooklyn are more likely to be stopped and frisked, with many of the consensual cases leading to physical (verbal) escalations. The number of arrests increased when a supervisor checked an officer's logs, demonstrating a statistically significant relationship between arrests and supervisory oversight.
+
+### Social Media Data Visualization Analysis
+
+Code: https://github.com/maggieigkuo/Portfolio/blob/main/Social_Media_Data_Visualization.ipynb
 
 Goal: Assess ways to decrease or, ideally, end racial disparities that occur during stop-and-frisk searches in New York City.
 
