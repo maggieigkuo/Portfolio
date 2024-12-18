@@ -28,7 +28,7 @@ Code: https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb
 
 Goal: Assess ways to decrease or, ideally, end racial disparities that occur during stop-and-frisk searches in New York City.
 
-Description: The objective of this project was to analyze the 2023 NYCLU stop-and-frisk dataset. My group and I examined over 50 columns, narrowed them down to 18, and developed four research questions to identify any alarming trends or patterns occurring during stop-and-frisk incidents. The dataset required extensive cleaning, as there were many NaNs and null values across multiple columns. The analysis incorporated logistic regressions, mapping, and data visualization. 
+Description: The objective of this project was to analyze the 2023 NYCLU stop-and-frisk dataset. In a group of 3, we examined over 50 columns, narrowed them down to 18, and developed four research questions to identify any alarming trends or patterns occurring during stop-and-frisk incidents. The dataset required extensive cleaning, as there were many NaNs and null values across multiple columns. The analysis incorporated logistic regressions, mapping, and data visualization. 
 
 Skills: data cleaning, data analysis, regression analysis, data visualization
 
