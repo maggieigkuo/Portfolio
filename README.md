@@ -17,6 +17,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
   - #### Tableu
   - #### HTML
 - [Education](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#education)
+- [Contacts](https://github.com/maggieigkuo/Portfolio/edit/main/README.md#contacts)
 
 ## Projects
 This section will be used to briefly describe the data analytics projects (in Python) done to solve stalkeholder cases.
@@ -52,3 +53,8 @@ Results: Social media significantly impacts female users more than male and non-
 ## Education
 
 Binghamton University, State University of New York: Bachelor's degree, Integrative Neuroscience and Digital and Data Studies (minor), 2021-2025
+
+## Contacts
+
+- Email: maggieigkuo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maggiekuo/
