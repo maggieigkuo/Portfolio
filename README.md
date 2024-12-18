@@ -16,6 +16,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
   - #### SQL
   - #### Tableu
   - #### HTML
+- [Education]
 
 ## Projects
 This section will be used to briefly describe the data analytics projects (in Python) done to solve stalkeholder cases.
@@ -47,3 +48,7 @@ Skills: data analysis, data visualization
 Technology: Python, Pandas, Numpy, Matplotlib
 
 Results: Social media significantly impacts female users more than male and non-binary individuals. Platforms like Instagram have evolved into culturally powerful tools, capable of influencing a person's mood and shaping their self-image.
+
+## Education
+
+Binghamton University, State University of New York: Bachelor's degree, Integrative Neuroscience and Digital and Data Studies (minor), 2021-2025
