@@ -52,7 +52,7 @@ Results: Social media significantly impacts female users more than male and non-
 
 ## Education
 
-Binghamton University, State University of New York: Bachelor's degree, Integrative Neuroscience and Digital and Data Studies (minor), 2021-2025
+Binghamton University, State University of New York: Bachelor's degree, Integrative Neuroscience and Digital and Data Studies, 2021-2025
 
 ## Contacts
 
