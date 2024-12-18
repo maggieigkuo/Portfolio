@@ -9,12 +9,12 @@ The purpose of this repository is to showcase my skills and the projects I have 
 
 ## Table of Contents
 - [About Me](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#about-me)
-- [Projects](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#projects)
+- [Projects](**https://github.com/maggieigkuo/Portfolio/blob/main/README.md#projects**)
   - #### Python
     - [Analyzing Stop and Frisks Occurring in each NYC Borough](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#analyzing-stop-and-frisks-occurring-in-each-nyc-borough)
     - [Social Media Data Visualization Analysis](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#social-media-data-visualization-analysis)
 
-## Portfolio Projects
+## Projects
 This section will be used to briefly describe the data analytics projects (in Python) done to solve stalkeholder cases.
 
 ### Analyzing Stop and Frisks Occurring in each NYC Borough
