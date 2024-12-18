@@ -16,7 +16,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
   - #### SQL
   - #### Tableu
   - #### HTML
-- [Education]
+- [Education](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#education)
 
 ## Projects
 This section will be used to briefly describe the data analytics projects (in Python) done to solve stalkeholder cases.
