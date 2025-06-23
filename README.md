@@ -53,6 +53,7 @@ Results: Social media significantly impacts female users more than male and non-
 ### Global Maternal Mortality
 
 Dashboard: https://public.tableau.com/app/profile/maggie.kuo/viz/FinalProjectDash1_17465960340370/Dashboard1
+Presentation: maternal_mortality.pdf
 
 Goal: Produce 2 dashboards with at least 3 visualizations to compare maternal health outcomes across countries with the highest and lowest Gross National Income (GNI) 
 
