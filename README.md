@@ -108,6 +108,23 @@ Technology: R, Excel, Python
 
 Results: Key findings revealed that eviction filings and housing complaints are highly concentrated among a small number of landlords—particularly figures like Ritter and the Binghamton Housing Authority—who were responsible for the majority of court-recorded evictions between 2022 and 2024. Geographic analysis exposed clusters of complaint-prone properties in central Binghamton, highlighting localized areas of housing instability. The dashboard allows users to explore landlord profiles, eviction history, and code violations, helping tenants identify high-risk properties.
 
+### HTML/CSS
+
+### Fertility Crisis
+Code: [View Code](https://github.com/lyraeal/FHAB-Dashboard) <br>
+Final Poster: [View Poster](https://github.com/maggieigkuo/Portfolio/blob/main/FHAB%20Final%20Poster.png) <br>
+Final Report: [View Report](https://github.com/maggieigkuo/Portfolio/blob/main/FHAB%20Research%20Report.pdf)
+
+Goal: Develop a public-facing dashboard for Binghamton’s Fair Housing Advisory Board to be featured on their website, empowering future tenants with accessible insights into the city’s most frequently cited landlords
+
+Description: In partnership with Binghamton’s Fair Housing Advisory Board (FHAB), this project investigates patterns of landlord misconduct, eviction filings, and housing code violations across Broome County using FOIL-obtained data. The goal was to develop a public dashboard that visualizes properties owned by the city's most frequently cited landlords, offering tenants an accessible tool to make informed housing decisions. By consolidating fragmented datasets, cleaning and geocoding over 390 properties, and creating interactive maps and charts, the project sheds light on structural inequalities in Binghamton’s rental market and supports community efforts to promote transparency, tenant rights, and policy reform.
+
+Skills: data cleaning, data analysis, data visualization, large datasets, trend analysis, 
+
+Technology: R, Excel, Python
+
+Results: Key findings revealed that eviction filings and housing complaints are highly concentrated among a small number of landlords—particularly figures like Ritter and the Binghamton Housing Authority—who were responsible for the majority of court-recorded evictions between 2022 and 2024. Geographic analysis exposed clusters of complaint-prone properties in central Binghamton, highlighting localized areas of housing instability. The dashboard allows users to explore landlord profiles, eviction history, and code violations, helping tenants identify high-risk properties.
+
 
 ## Education
 
