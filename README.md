@@ -52,7 +52,7 @@ Results: Social media significantly impacts female users more than male and non-
 
 ### Global Maternal Mortality
 
-Dashboard: [https://github.com/maggieigkuo/Portfolio/blob/main/Social_Media_Data_Visualization.ipynb](https://public.tableau.com/app/profile/maggie.kuo/viz/FinalProjectDash1_17465960340370/Dashboard1)
+Dashboard: https://public.tableau.com/app/profile/maggie.kuo/viz/FinalProjectDash1_17465960340370/Dashboard1
 
 Goal: Produce six visualizations from the data to identify key patterns and trends, effectively conveying a clear narrative about what the data reveals and its implications
 
