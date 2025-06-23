@@ -18,6 +18,8 @@ The purpose of this repository is to showcase my skills and the projects I have 
     - [Exploring Chicago's Demographic Landscape](#exploring-chicagos-demographic-landscape)
   - #### R
     - [Fair Housing Advisory Board Dashboard](#fair-housing-advisory-board-dashboard)
+  - #### HTML/CSS
+    - [Fertility Crisis](#fertility-crisis)
 - [Education](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#education)
 - [Contacts](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#contacts)
 
