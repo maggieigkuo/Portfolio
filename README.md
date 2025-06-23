@@ -93,7 +93,7 @@ Results: Teen birth rates were highest in predominantly Black neighborhoods, sug
 ### Fair Housing Advisory Board Dashboard
 Dashboard: [View Dashboard](https://lyraeal-housing-dashboard.share.connect.posit.cloud) <br>
 Code: [View Code](https://github.com/lyraeal/FHAB-Dashboard) <br>
-Final Poster: [View Poster](
+Final Poster: [View Poster](https://github.com/maggieigkuo/Portfolio/blob/main/FHAB%20Final%20Poster.png) <br>
 Final Report: [View Report](
 
 Goal: Produce a dashboard with at least 3 visualizations to tell a meaningful story about the future prospects of young teens in Chicago by examining how their opportunities may differ based on where they live.  
