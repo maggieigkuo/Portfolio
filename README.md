@@ -18,7 +18,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
 - [Contacts](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#contacts)
 
 ## Projects
-This section will be used to briefly describe the data analytics projects (in Python) done to solve stalkeholder cases.
+This section will be used to briefly describe the data analytics projects done to solve stalkeholder cases.
 
 ### Analyzing Stop and Frisks Occurring in each NYC Borough
 
