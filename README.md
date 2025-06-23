@@ -16,6 +16,8 @@ The purpose of this repository is to showcase my skills and the projects I have 
   - #### Tableau
     - [Global Maternal Mortality](#global-maternal-mortality)
     - [Exploring Chicago's Demographic Landscape](#exploring-chicagos-demographic-landscape)
+  - #### R
+    - [Fair Housing Advisory Board Dashboard](#fair-housing-advisory-board-dashboard)
 - [Education](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#education)
 - [Contacts](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#contacts)
 
