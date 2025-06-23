@@ -27,7 +27,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
 
 ### Analyzing Stop and Frisks Occurring in each NYC Borough
 
-Code: https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb
+Code: [View Code](https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb)
 
 Goal: Assess ways to decrease or, ideally, end racial disparities that occur during stop-and-frisk searches in New York City.
 
@@ -41,7 +41,7 @@ Results: From the analysis, Black male Americans in the Bronx and Brooklyn are m
 
 ### Social Media Data Visualization Analysis
 
-Code: https://github.com/maggieigkuo/Portfolio/blob/main/Social_Media_Data_Visualization.ipynb
+Code: [View Code](https://github.com/maggieigkuo/Portfolio/blob/main/Social_Media_Data_Visualization.ipynb)
 
 Goal: Produce six visualizations from the data to identify key patterns and trends, effectively conveying a clear narrative about what the data reveals and its implications
 
