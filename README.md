@@ -68,7 +68,7 @@ Research Questions:
 2. What are the leading causes of maternal mortality in low-income vs. high-income countries? 
 3. How has maternal mortality rates changed over the last two decades?
 
-Skills: data cleaning, data analysis, data visualization, large datasets
+Skills: data cleaning, data analysis, data visualization, large datasets, research, trend analysis
 
 Technology: Tableau, Excel
 
@@ -82,11 +82,30 @@ Goal: Produce a dashboard with at least 3 visualizations to tell a meaningful st
 
 Description: This dashboard investigates how place-based inequalities in Chicago shape the life outcomes of young people, particularly in predominantly Black communities, in the year 2014. Using geographic data, the project visualizes teen birth rates, college graduation rates by gender, and the relationship between child poverty and opportunity. Through thoughtful visual design and ethical storytelling, the dashboard emphasizes how systemic disparities in healthcare, education, and neighborhood resources affect youth opportunity and highlights the need for targeted policy attention in underserved areas.
 
-Skills: data cleaning, data analysis, data visualization, accessibilit
+Skills: data cleaning, data analysis, data visualization, accessibility, research
 
 Technology: Tableau, Excel
 
 Results: Teen birth rates were highest in predominantly Black neighborhoods, suggesting limited access to reproductive healthcare and broader health equity. Educational analysis showed that women consistently graduate at higher rates than men, yet this achievement alone doesn't offset systemic barriers faced by marginalized groups. Lastly, a strong negative correlation was observed between child poverty and opportunity—communities with higher rates of poverty had significantly lower Childhood Opportunity Index scores. 
+
+### R
+
+### Fair Housing Advisory Board Dashboard
+Dashboard: [View Dashboard](https://lyraeal-housing-dashboard.share.connect.posit.cloud) <br>
+Code: [View Code](https://github.com/lyraeal/FHAB-Dashboard) <br>
+Final Poster: [View Poster](
+Final Report: [View Report](
+
+Goal: Produce a dashboard with at least 3 visualizations to tell a meaningful story about the future prospects of young teens in Chicago by examining how their opportunities may differ based on where they live.  
+
+Description: This dashboard investigates how place-based inequalities in Chicago shape the life outcomes of young people, particularly in predominantly Black communities, in the year 2014. Using geographic data, the project visualizes teen birth rates, college graduation rates by gender, and the relationship between child poverty and opportunity. Through thoughtful visual design and ethical storytelling, the dashboard emphasizes how systemic disparities in healthcare, education, and neighborhood resources affect youth opportunity and highlights the need for targeted policy attention in underserved areas.
+
+Skills: data cleaning, data analysis, data visualization, large datasets, trend analysis, 
+
+Technology: R, Excel, Python
+
+Results: Teen birth rates were highest in predominantly Black neighborhoods, suggesting limited access to reproductive healthcare and broader health equity. Educational analysis showed that women consistently graduate at higher rates than men, yet this achievement alone doesn't offset systemic barriers faced by marginalized groups. Lastly, a strong negative correlation was observed between child poverty and opportunity—communities with higher rates of poverty had significantly lower Childhood Opportunity Index scores. 
+
 
 ## Education
 
