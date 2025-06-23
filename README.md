@@ -54,15 +54,20 @@ Results: Social media significantly impacts female users more than male and non-
 
 Dashboard: https://public.tableau.com/app/profile/maggie.kuo/viz/FinalProjectDash1_17465960340370/Dashboard1
 
-Goal: Produce six visualizations from the data to identify key patterns and trends, effectively conveying a clear narrative about what the data reveals and its implications
+Goal: Produce 2 dashboards with at least 3 visualizations to compare maternal health outcomes across countries with the highest and lowest Gross National Income (GNI) 
 
-Description: This dataset encompasses various age groups, genders, sexual orientations, and emotions across different social media platforms. The purpose of the project is to create visualizations that uncover significant correlations among these factors and provide meaningful insights into the results. 
+Description: For this final project we researched and analyzed the global maternal mortality rates, focusing on countries with the highest GNI per capita versus countries with the lowest GNI capita. We felt that maternal mortality is a topic that is underrepresented in the media, and there have been many global events that have happened since the 2000s that affect maternal mortality rates. It is important for us to further understand and analyze some contributing factors as to why there is an increase or decrease in these mortality rates, and utilize this information when creating visualizations so they are accessible for the public to be more informed.
 
-Skills: data analysis, data visualization
+Research Questions: 
+1. How does the economic status of a country influence how often skilled healthcare workers are in attendance during child birth? 
+2. What are the leading causes of maternal mortality in low-income vs. high-income countries? 
+3. How has maternal mortality rates changed over the last two decades?
 
-Technology: Python, Pandas, Numpy, Matplotlib
+Skills: data cleaning, data analysis, data visualization, large datasets
 
-Results: Social media significantly impacts female users more than male and non-binary individuals. Platforms like Instagram have evolved into culturally powerful tools, capable of influencing a person's mood and shaping their self-image.
+Technology: Tableau, Excel
+
+Results: Although there has been a steady decrease in global maternal mortality within the last few decades, maternal deaths are occurring at higher rates in low GNI countries. The presence of skilled healthcare workers during childbirth is significant in reducing maternal mortality and producing better health outcomes. 
 
 ## Education
 
