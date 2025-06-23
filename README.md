@@ -15,7 +15,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
     - [Social Media Data Visualization Analysis](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#social-media-data-visualization-analysis)
   - #### Tableau
     - [Global Maternal Mortality](#global-maternal-mortality)
-    - [Exploring Chicago's Demographic Landscape](#exploring-chicago's-demographic-landscape)
+    - [Exploring Chicago's Demographic Landscape](#exploring-chicagos-demographic-landscape)
 - [Education](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#education)
 - [Contacts](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#contacts)
 
@@ -77,23 +77,17 @@ Results: Although there has been a steady decrease in global maternal mortality 
 ### Exploring Chicago's Demographic Landscape
 
 Dashboard: [View Dashboard](https://public.tableau.com/app/profile/maggie.kuo/viz/ChicagosDemographic2014/Dashboard1) <br>
-Presentation: [View Presentation](https://github.com/maggieigkuo/Portfolio/blob/main/Maternal%20Mortality.pdf) <br>
 Final Report: [View Report](https://github.com/maggieigkuo/Portfolio/blob/main/Global%20Maternal%20Mortality%20Final%20Report.pdf)
 
-Goal: Produce 2 dashboards with at least 3 visualizations to compare maternal health outcomes across countries with the highest and lowest Gross National Income (GNI) 
+Goal: Produce a dashboard with at least 3 visualizations to tell a meaningful story about the future prospects of young teens in Chicago by examining how their opportunities may differ based on where they live.  
 
-Description: For this final project we researched and analyzed the global maternal mortality rates, focusing on countries with the highest GNI per capita versus countries with the lowest GNI capita. We felt that maternal mortality is a topic that is underrepresented in the media, and there have been many global events that have happened since the 2000s that affect maternal mortality rates. It is important for us to further understand and analyze some contributing factors as to why there is an increase or decrease in these mortality rates, and utilize this information when creating visualizations so they are accessible for the public to be more informed.
+Description: This dashboard investigates how place-based inequalities in Chicago shape the life outcomes of young people, particularly in predominantly Black communities, in the year 2014. Using geographic data, the project visualizes teen birth rates, college graduation rates by gender, and the relationship between child poverty and opportunity. Through thoughtful visual design and ethical storytelling, the dashboard emphasizes how systemic disparities in healthcare, education, and neighborhood resources affect youth opportunity and highlights the need for targeted policy attention in underserved areas.
 
-Research Questions: 
-1. How does the economic status of a country influence how often skilled healthcare workers are in attendance during child birth? 
-2. What are the leading causes of maternal mortality in low-income vs. high-income countries? 
-3. How has maternal mortality rates changed over the last two decades?
-
-Skills: data cleaning, data analysis, data visualization, large datasets
+Skills: data cleaning, data analysis, data visualization, accessibilit
 
 Technology: Tableau, Excel
 
-Results: Although there has been a steady decrease in global maternal mortality within the last few decades, maternal deaths are occurring at higher rates in low GNI countries. The presence of skilled healthcare workers during childbirth is significant in reducing maternal mortality and producing better health outcomes. 
+Results: Teen birth rates were highest in predominantly Black neighborhoods, suggesting limited access to reproductive healthcare and broader health equity. Educational analysis showed that women consistently graduate at higher rates than men, yet this achievement alone doesn't offset systemic barriers faced by marginalized groups. Lastly, a strong negative correlation was observed between child poverty and opportunity—communities with higher rates of poverty had significantly lower Childhood Opportunity Index scores. 
 
 ## Education
 
