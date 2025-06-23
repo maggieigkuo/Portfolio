@@ -111,9 +111,8 @@ Results: Key findings revealed that eviction filings and housing complaints are 
 ### HTML/CSS
 
 ### Fertility Crisis
-Code: [View Code](https://github.com/lyraeal/FHAB-Dashboard) <br>
+Code: [View Code](https://github.com/maggieigkuo/Portfolio/blob/main/index.html)
 Final Poster: [View Poster](https://github.com/maggieigkuo/Portfolio/blob/main/FHAB%20Final%20Poster.png) <br>
-Final Report: [View Report](https://github.com/maggieigkuo/Portfolio/blob/main/FHAB%20Research%20Report.pdf)
 
 Goal: Develop a public-facing dashboard for Binghamton’s Fair Housing Advisory Board to be featured on their website, empowering future tenants with accessible insights into the city’s most frequently cited landlords
 
