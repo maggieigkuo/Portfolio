@@ -76,8 +76,7 @@ Results: Although there has been a steady decrease in global maternal mortality 
 
 ### Exploring Chicago's Demographic Landscape
 
-Dashboard: [View Dashboard](https://public.tableau.com/app/profile/maggie.kuo/viz/ChicagosDemographic2014/Dashboard1) <br>
-Final Report: [View Report](https://github.com/maggieigkuo/Portfolio/blob/main/Global%20Maternal%20Mortality%20Final%20Report.pdf)
+Dashboard: [View Dashboard](https://public.tableau.com/app/profile/maggie.kuo/viz/ChicagosDemographic2014/Dashboard1)
 
 Goal: Produce a dashboard with at least 3 visualizations to tell a meaningful story about the future prospects of young teens in Chicago by examining how their opportunities may differ based on where they live.  
 
