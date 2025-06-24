@@ -103,8 +103,8 @@ Results: Key findings revealed that eviction filings and housing complaints are 
 ### HTML/CSS
 
 ### Fertility Crisis
-Code: [View Code](https://github.com/maggieigkuo/Web-Design/tree/main/Final%20Project)
-Inspiration/Draft: [View Draft](
+Code: [View Code](https://github.com/maggieigkuo/Web-Design/tree/main/Final%20Project) <br>
+Inspiration/Draft: [View Draft](https://drive.google.com/file/d/1WsQpGstzhrjjc4Q0GXl1hXUW0S649DMV/view?usp=sharing)
 
 Goal: Create an informative website with 8–10 sections showcasing a topic we were passionate about. My project aimed to educate audiences on the fertility divide between high- and low-income countries by examining trends in birth and fertility rates, key driving factors, and region-specific challenges. We had to incorporate tools such as Bootstrap for responsive design, GSAP, Textillate, and Lettering.js for text animations, Google Icons for visual consistency, Chart.js for dynamic data visualizations, and jQuery to enhance interactivity—creating an engaging and informative user experience tailored to a wide audience.
 
