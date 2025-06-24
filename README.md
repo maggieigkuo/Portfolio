@@ -116,11 +116,11 @@ Technology: Bootstrap, GSAP, Google Icons, Chart.js, jQuery, Lettering, Textilla
 ### Digital Portfolio
 Code: [View Code](https://github.com/maggieigkuo/Web-Design/tree/main/Portfolio)
 
-Goal: Create an informative website with 8–10 sections showcasing a topic we were passionate about. My project aimed to educate audiences on the fertility divide between high- and low-income countries by examining trends in birth and fertility rates, key driving factors, and region-specific challenges. We had to incorporate tools such as Bootstrap for responsive design, GSAP, Textillate, and Lettering.js for text animations, Google Icons for visual consistency, Chart.js for dynamic data visualizations, and jQuery to enhance interactivity—creating an engaging and informative user experience tailored to a wide audience.
+Goal: Turn my resume into an interactive digital portfolio highlighting my technical skills, academic background, and professional experiences using clean, modern web design and dynamic components that demonstrate my proficiency in HTML, CSS, and JavaScript
 
-Description: This project explores the global fertility crisis through the creation of an interactive, multi-section website. Designed around a topic we were passionate about, the site breaks down the complex demographic divide between high- and low-income countries, highlighting how fertility trends differ across the globe. Using visual storytelling, data charts, and regional comparisons, the site examines key drivers such as education, contraception access, child mortality, and economic pressures. Each section guides users through global patterns, country-specific insights, and proposed solutions—from pro-natal policies in wealthier nations to expanded healthcare access in lower-income regions. The goal was to raise awareness about the long-term implications of global fertility trends and to present the issue in a way that is engaging, accessible, and thought-provoking.
+Description: This project involved creating a personal website to transform my resume into an interactive digital portfolio that showcases my academic journey, technical skills, and professional experiences. Developed using HTML, CSS, and JavaScript, the site features a clean and responsive design with multiple navigational tabs—such as About Me, Work Experience, and Contact Me—for a structured and intuitive user experience. I incorporated animated transitions, custom styling, and a dynamic skills section to highlight my proficiency in tools like Python, SQL, Tableau, and more. This project demonstrates both my front-end development capabilities and my ability to present information in a professional, engaging format tailored for prospective employers and collaborators.
 
-Technology: Bootstrap, GSAP, Google Icons, Chart.js, jQuery, Lettering, Textillate
+Technology: Bootstrap
 
 ## Education
 
