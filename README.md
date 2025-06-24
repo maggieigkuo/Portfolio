@@ -125,7 +125,13 @@ Technology: HTML/CSS, Bootstrap
 ### SQL
 
 ### Proficiency Assignment
-Code: [View Code]
+Code: [View Code](https://github.com/maggieigkuo/Portfolio/blob/main/SQL%20Proficiency%20Assignment.sqbpro)
+
+Goal: Create multiple views that examined customer demographics, track metadata, artist contributions, and sales patterns
+
+Description: This capstone assignment for the SQL unit tested our ability to construct and execute complex queries using a real-world dataset from the Chinook music database. We were tasked with answering a series of analytical questions designed by our professor, covering a range of SQL concepts such as subqueries, JOINs, GROUP BY, conditional filtering, string manipulation, and aggregate functions.
+
+Technology: SQL
 
 ## Education
 
