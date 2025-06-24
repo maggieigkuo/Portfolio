@@ -2,7 +2,7 @@
 ## About Me
 Hi, I’m Maggie Kuo! A recent Binghamton University graduate who majored in Integrative Neuroscience with a Digital and Data Studies minor. I have an extensive background in research and an eye for problem-solving that allows me to explore how technology and data influence human biases, perception, and decision-making. My interdisciplinary education allows me to approach problems with a blend of scientific rigor and data-driven analysis. I aim to drive meaningful change in how we deliver and manage care in an increasingly tech-driven world. Given the opportunity, I am eager to apply my skills to the data science field as an entry-level data specialist, focusing on behavioral/consumer analysis. 
 
-I have gained valuable skills in Python, Tableau, R, SQL, JavaScript, CSS/HTML allowing me to conduct statistical analysis, perform data visualizations, and grasp a deeper understanding of pattern and trends. 
+I have gained valuable skills in Python, Tableau, R, SQL, JavaScript, HTML/CSS allowing me to conduct statistical analysis, perform data visualizations, and grasp a deeper understanding of pattern and trends. 
 
 The purpose of this repository is to showcase my skills and the projects I have completed so far.
 
