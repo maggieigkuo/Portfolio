@@ -111,7 +111,7 @@ Goal: Create an informative website with 8–10 sections showcasing a topic we w
 
 Description: This project explores the global fertility crisis through the creation of an interactive, multi-section website. Designed around a topic we were passionate about, the site breaks down the complex demographic divide between high- and low-income countries, highlighting how fertility trends differ across the globe. Using visual storytelling, data charts, and regional comparisons, the site examines key drivers such as education, contraception access, child mortality, and economic pressures. Each section guides users through global patterns, country-specific insights, and proposed solutions—from pro-natal policies in wealthier nations to expanded healthcare access in lower-income regions. The goal was to raise awareness about the long-term implications of global fertility trends and to present the issue in a way that is engaging, accessible, and thought-provoking.
 
-Technology: Bootstrap, GSAP, Google Icons, Chart.js, jQuery, Lettering, Textillate
+Technology: HTML/CSS, Bootstrap, GSAP, Google Icons, Chart.js, jQuery, Lettering, Textillate
 
 ### Digital Portfolio
 Code: [View Code](https://github.com/maggieigkuo/Web-Design/tree/main/Portfolio)
@@ -120,7 +120,12 @@ Goal: Turn my resume into an interactive digital portfolio highlighting my techn
 
 Description: This project involved creating a personal website to transform my resume into an interactive digital portfolio that showcases my academic journey, technical skills, and professional experiences. Developed using HTML, CSS, and JavaScript, the site features a clean and responsive design with multiple navigational tabs—such as About Me, Work Experience, and Contact Me—for a structured and intuitive user experience. I incorporated animated transitions, custom styling, and a dynamic skills section to highlight my proficiency in tools like Python, SQL, Tableau, and more. This project demonstrates both my front-end development capabilities and my ability to present information in a professional, engaging format tailored for prospective employers and collaborators.
 
-Technology: Bootstrap
+Technology: HTML/CSS, Bootstrap
+
+### SQL
+
+### Proficiency Assignment
+Code: [View Code]
 
 ## Education
 
