@@ -20,6 +20,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
     - [Fair Housing Advisory Board Dashboard](#fair-housing-advisory-board-dashboard)
   - #### HTML/CSS
     - [Fertility Crisis](#fertility-crisis)
+    - [Digital Portfolio](#digital-portfolio)
 - [Education](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#education)
 - [Contacts](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#contacts)
 
@@ -105,6 +106,15 @@ Results: Key findings revealed that eviction filings and housing complaints are 
 ### Fertility Crisis
 Code: [View Code](https://github.com/maggieigkuo/Web-Design/tree/main/Final%20Project) <br>
 Inspiration/Draft: [View Draft](https://drive.google.com/file/d/1WsQpGstzhrjjc4Q0GXl1hXUW0S649DMV/view?usp=sharing)
+
+Goal: Create an informative website with 8–10 sections showcasing a topic we were passionate about. My project aimed to educate audiences on the fertility divide between high- and low-income countries by examining trends in birth and fertility rates, key driving factors, and region-specific challenges. We had to incorporate tools such as Bootstrap for responsive design, GSAP, Textillate, and Lettering.js for text animations, Google Icons for visual consistency, Chart.js for dynamic data visualizations, and jQuery to enhance interactivity—creating an engaging and informative user experience tailored to a wide audience.
+
+Description: This project explores the global fertility crisis through the creation of an interactive, multi-section website. Designed around a topic we were passionate about, the site breaks down the complex demographic divide between high- and low-income countries, highlighting how fertility trends differ across the globe. Using visual storytelling, data charts, and regional comparisons, the site examines key drivers such as education, contraception access, child mortality, and economic pressures. Each section guides users through global patterns, country-specific insights, and proposed solutions—from pro-natal policies in wealthier nations to expanded healthcare access in lower-income regions. The goal was to raise awareness about the long-term implications of global fertility trends and to present the issue in a way that is engaging, accessible, and thought-provoking.
+
+Technology: Bootstrap, GSAP, Google Icons, Chart.js, jQuery, Lettering, Textillate
+
+### Digital Portfolio
+Code: [View Code](https://github.com/maggieigkuo/Web-Design/tree/main/Portfolio)
 
 Goal: Create an informative website with 8–10 sections showcasing a topic we were passionate about. My project aimed to educate audiences on the fertility divide between high- and low-income countries by examining trends in birth and fertility rates, key driving factors, and region-specific challenges. We had to incorporate tools such as Bootstrap for responsive design, GSAP, Textillate, and Lettering.js for text animations, Google Icons for visual consistency, Chart.js for dynamic data visualizations, and jQuery to enhance interactivity—creating an engaging and informative user experience tailored to a wide audience.
 
