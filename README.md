@@ -21,6 +21,8 @@ The purpose of this repository is to showcase my skills and the projects I have 
   - #### HTML/CSS
     - [Fertility Crisis](#fertility-crisis)
     - [Digital Portfolio](#digital-portfolio)
+  - #### SQL
+    - [SQL Proficiency Assessment](#sql-proficiency-assignment)
 - [Education](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#education)
 - [Contacts](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#contacts)
 
@@ -124,7 +126,7 @@ Technology: HTML/CSS, Bootstrap
 
 ### SQL
 
-### Proficiency Assignment
+### SQL Proficiency Assignment
 Code: [View Code](https://github.com/maggieigkuo/Portfolio/blob/main/SQL%20Proficiency%20Assignment.sqbpro)
 
 Goal: Create multiple views that examined customer demographics, track metadata, artist contributions, and sales patterns
