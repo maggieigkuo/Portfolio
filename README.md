@@ -35,8 +35,6 @@ Goal: Assess ways to decrease or, ideally, end racial disparities that occur dur
 
 Description: The objective of this project was to analyze the 2023 NYCLU stop-and-frisk dataset. In a group of 3, we examined over 50 columns, narrowed them down to 18, and developed four research questions to identify any alarming trends or patterns occurring during stop-and-frisk incidents. The dataset required extensive cleaning, as there were many NaNs and null values across multiple columns. The analysis incorporated logistic regressions, mapping, and data visualization. 
 
-Skills: data cleaning, data analysis, regression analysis, data visualization
-
 Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, Statsmodels.api, GeoPandas
 
 Results: From the analysis, Black male Americans in the Bronx and Brooklyn are more likely to be stopped and frisked, with many of the consensual cases leading to physical (verbal) escalations. The number of arrests increased when a supervisor checked an officer's logs, demonstrating a statistically significant relationship between arrests and supervisory oversight.
@@ -48,8 +46,6 @@ Code: [View Code](https://github.com/maggieigkuo/Portfolio/blob/main/Social_Medi
 Goal: Produce six visualizations from the data to identify key patterns and trends, effectively conveying a clear narrative about what the data reveals and its implications
 
 Description: This dataset encompasses various age groups, genders, sexual orientations, and emotions across different social media platforms. The purpose of the project is to create visualizations that uncover significant correlations among these factors and provide meaningful insights into the results. 
-
-Skills: data analysis, data visualization
 
 Technology: Python, Pandas, Numpy, Matplotlib
 
@@ -72,8 +68,6 @@ Research Questions:
 2. What are the leading causes of maternal mortality in low-income vs. high-income countries? 
 3. How has maternal mortality rates changed over the last two decades?
 
-Skills: data cleaning, data analysis, data visualization, large datasets, research, trend analysis
-
 Technology: Tableau, Excel
 
 Results: Although there has been a steady decrease in global maternal mortality within the last few decades, maternal deaths are occurring at higher rates in low GNI countries. The presence of skilled healthcare workers during childbirth is significant in reducing maternal mortality and producing better health outcomes. 
@@ -85,8 +79,6 @@ Dashboard: [View Dashboard](https://public.tableau.com/app/profile/maggie.kuo/vi
 Goal: Produce a dashboard with at least 3 visualizations to tell a meaningful story about the future prospects of young teens in Chicago by examining how their opportunities may differ based on where they live.  
 
 Description: This dashboard investigates how place-based inequalities in Chicago shape the life outcomes of young people, particularly in predominantly Black communities, in the year 2014. Using geographic data, the project visualizes teen birth rates, college graduation rates by gender, and the relationship between child poverty and opportunity. Through thoughtful visual design and ethical storytelling, the dashboard emphasizes how systemic disparities in healthcare, education, and neighborhood resources affect youth opportunity and highlights the need for targeted policy attention in underserved areas.
-
-Skills: data cleaning, data analysis, data visualization, accessibility, research
 
 Technology: Tableau, Excel
 
@@ -104,8 +96,6 @@ Goal: Develop a public-facing dashboard for Binghamton’s Fair Housing Advisory
 
 Description: In partnership with Binghamton’s Fair Housing Advisory Board (FHAB), this project investigates patterns of landlord misconduct, eviction filings, and housing code violations across Broome County using FOIL-obtained data. The goal was to develop a public dashboard that visualizes properties owned by the city's most frequently cited landlords, offering tenants an accessible tool to make informed housing decisions. By consolidating fragmented datasets, cleaning and geocoding over 390 properties, and creating interactive maps and charts, the project sheds light on structural inequalities in Binghamton’s rental market and supports community efforts to promote transparency, tenant rights, and policy reform.
 
-Skills: data cleaning, data analysis, data visualization, large datasets, trend analysis, 
-
 Technology: R, Excel, Python
 
 Results: Key findings revealed that eviction filings and housing complaints are highly concentrated among a small number of landlords—particularly figures like Ritter and the Binghamton Housing Authority—who were responsible for the majority of court-recorded evictions between 2022 and 2024. Geographic analysis exposed clusters of complaint-prone properties in central Binghamton, highlighting localized areas of housing instability. The dashboard allows users to explore landlord profiles, eviction history, and code violations, helping tenants identify high-risk properties.
@@ -115,16 +105,11 @@ Results: Key findings revealed that eviction filings and housing complaints are 
 ### Fertility Crisis
 Code: [View Code](https://github.com/maggieigkuo/Web-Design/tree/main/Final%20Project)
 
-Goal: Develop a public-facing dashboard for Binghamton’s Fair Housing Advisory Board to be featured on their website, empowering future tenants with accessible insights into the city’s most frequently cited landlords
+Goal: Create an informative website with 8–10 sections showcasing a topic we were passionate about. My project aimed to educate audiences on the fertility divide between high- and low-income countries by examining trends in birth and fertility rates, key driving factors, and region-specific challenges. We had to incorporate tools such as Bootstrap for responsive design, GSAP, Textillate, and Lettering.js for text animations, Google Icons for visual consistency, Chart.js for dynamic data visualizations, and jQuery to enhance interactivity—creating an engaging and informative user experience tailored to a wide audience.
 
-Description: In partnership with Binghamton’s Fair Housing Advisory Board (FHAB), this project investigates patterns of landlord misconduct, eviction filings, and housing code violations across Broome County using FOIL-obtained data. The goal was to develop a public dashboard that visualizes properties owned by the city's most frequently cited landlords, offering tenants an accessible tool to make informed housing decisions. By consolidating fragmented datasets, cleaning and geocoding over 390 properties, and creating interactive maps and charts, the project sheds light on structural inequalities in Binghamton’s rental market and supports community efforts to promote transparency, tenant rights, and policy reform.
+Description: This project explores the global fertility crisis through the creation of an interactive, multi-section website. Designed around a topic we were passionate about, the site breaks down the complex demographic divide between high- and low-income countries, highlighting how fertility trends differ across the globe. Using visual storytelling, data charts, and regional comparisons, the site examines key drivers such as education, contraception access, child mortality, and economic pressures. Each section guides users through global patterns, country-specific insights, and proposed solutions—from pro-natal policies in wealthier nations to expanded healthcare access in lower-income regions. The goal was to raise awareness about the long-term implications of global fertility trends and to present the issue in a way that is engaging, accessible, and thought-provoking.
 
-Skills: data cleaning, data analysis, data visualization, large datasets, trend analysis, 
-
-Technology: R, Excel, Python
-
-Results: Key findings revealed that eviction filings and housing complaints are highly concentrated among a small number of landlords—particularly figures like Ritter and the Binghamton Housing Authority—who were responsible for the majority of court-recorded evictions between 2022 and 2024. Geographic analysis exposed clusters of complaint-prone properties in central Binghamton, highlighting localized areas of housing instability. The dashboard allows users to explore landlord profiles, eviction history, and code violations, helping tenants identify high-risk properties.
-
+Technology: Bootstrap, GSAP, Google Icons, Chart.js, jQuery, Lettering, Textillate
 
 ## Education
 
