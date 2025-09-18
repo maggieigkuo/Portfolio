@@ -90,7 +90,7 @@ Results: Teen birth rates were highest in predominantly Black neighborhoods, sug
 ### R
 
 ### Fair Housing Advisory Board Dashboard
-Dashboard: [View Dashboard](https://lyraeal-housing-dashboard.share.connect.posit.cloud) <br>
+Dashboard: [View Dashboard](https://binghamtonhousingjustice.com/worst-evictors/) <br>
 Code: [View Code](https://github.com/lyraeal/FHAB-Dashboard) <br>
 Final Poster: [View Poster](https://github.com/maggieigkuo/Portfolio/blob/main/FHAB%20Final%20Poster.png) <br>
 Final Report: [View Report](https://github.com/maggieigkuo/Portfolio/blob/main/FHAB%20Research%20Report.pdf)
