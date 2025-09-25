@@ -4,7 +4,6 @@ Hi, I’m Maggie Kuo! A recent Binghamton University graduate who majored in Int
 
 I have gained valuable skills in Python, Tableau, R, SQL, JavaScript, HTML/CSS allowing me to conduct statistical analysis, perform data visualizations, and grasp a deeper understanding of pattern and trends. 
 
-The purpose of this repository is to showcase my skills and the projects I have completed so far.
 
 
 ## Table of Contents
